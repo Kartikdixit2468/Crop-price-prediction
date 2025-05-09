@@ -1,0 +1,26 @@
+{
+  "name": "crop-price-pridiction-api",
+  "version": "1.0.0",
+  "description": "Somethig I will add later",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kartikdixit2468/Crop-price-prediction.git"
+  },
+  "author": "Kartik Dixit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kartikdixit2468/Crop-price-prediction/issues"
+  },
+  "homepage": "https://github.com/Kartikdixit2468/Crop-price-prediction#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1",
+    "nodemon": "^3.1.10"
+  }
+}
